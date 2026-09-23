@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Awad Emad 👋
 
-<!--
-**awad19977/awad19977** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-stack developer working with .NET, TypeScript, and modern web apps.**
 
-Here are some ideas to get you started:
+I build practical software for business workflows, reporting, and the web. I care about reliable data, clear interfaces, and tools that make complex work easier.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+
+- **[Report Intelligence Platform](https://github.com/awad19977/Report-Intelligence-Platform)** — A TypeScript platform for exploring and analyzing enterprise reports, with reusable packages, a CLI, and an MCP server.
+- **[Cafeteria POS](https://github.com/awad19977/Cafeteria-POS)** — A point-of-sale web app built with React Router, TypeScript, and Prisma.
+- **[Portfolio](https://github.com/awad19977/Portfolio)** — A full-stack portfolio project using Vue and ASP.NET Core.
+
+## Technologies
+
+`C#` · `ASP.NET Core` · `TypeScript` · `React` · `Vue` · `Node.js` · `SQL`
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/awad-emad-81089118b) · [Explore my repositories](https://github.com/awad19977?tab=repositories)
