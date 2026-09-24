@@ -107,6 +107,15 @@ The projects below are separate apps and systems. Professional and in-progress w
 **Mobile and interfaces**<br/>
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=111111) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
 
+**Integration and delivery**<br/>
+![HL7/ASTM](https://img.shields.io/badge/HL7%20%2F%20ASTM-1B7688?style=flat-square) ![DICOMweb](https://img.shields.io/badge/DICOMweb-1B7688?style=flat-square) ![MCP](https://img.shields.io/badge/MCP-40566F?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+### 🔧 Skills shaped by real workflows
+
+- **Healthcare interoperability:** DICOM imaging, lab analyzer messaging, and TCP/IP device connections.
+- **Operational reliability:** offline mobile queues, Windows print services and label printing, and Arabic/English patient and queue experiences.
+- **End-to-end delivery:** tracing screens through APIs and databases, automated checks, CI workflows, npm packages, and MCP tools.
+
 ### 📍 The path so far
 
 **2017–present · Software Developer, Aliaa Specialist Hospital**  
