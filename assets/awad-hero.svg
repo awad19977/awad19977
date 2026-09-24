@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Awad Emad</title>
+  <desc id="desc">Full-stack developer building dependable healthcare and operations software</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1627"/>
+      <stop offset="1" stop-color="#152b3d"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#57ded2"/>
+      <stop offset="1" stop-color="#8bbdff"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#8db0bc" stroke-opacity=".075"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="320" rx="20" fill="url(#background)"/>
+  <rect width="1200" height="320" rx="20" fill="url(#grid)"/>
+  <path d="M0 279H1200" stroke="#8db0bc" stroke-opacity=".15"/>
+  <rect x="58" y="48" width="8" height="47" rx="4" fill="url(#accent)"/>
+  <text x="86" y="72" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="4" fill="#78ddd5">HELLO, I'M</text>
+  <text x="58" y="152" font-family="Segoe UI, Arial, sans-serif" font-size="64" font-weight="750" fill="#f7fbff">Awad Emad</text>
+  <text x="60" y="197" font-family="Segoe UI, Arial, sans-serif" font-size="23" fill="#c8dbe5">Building dependable software for care and operations.</text>
+  <rect x="59" y="226" width="191" height="31" rx="15" fill="#173c47" stroke="#3d9d9b" stroke-opacity=".75"/>
+  <text x="77" y="247" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#90ece0">HEALTHCARE SYSTEMS</text>
+  <rect x="262" y="226" width="163" height="31" rx="15" fill="#1c354f" stroke="#608bb8" stroke-opacity=".75"/>
+  <text x="281" y="247" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#a9cfff">FULL STACK</text>
+  <rect x="437" y="226" width="162" height="31" rx="15" fill="#223747" stroke="#698a99" stroke-opacity=".75"/>
+  <text x="455" y="247" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#c2d9e1">REPORTING TOOLS</text>
+  <g fill="none" stroke-width="2">
+    <path d="M804 92L934 68 1067 111 1123 222 1003 261 858 226 804 92Z" stroke="#4cc7c4" stroke-opacity=".6"/>
+    <path d="M804 92L1003 261M934 68L858 226M1067 111L858 226M1123 222L934 68" stroke="#7aa7cb" stroke-opacity=".27"/>
+    <path d="M747 177H807L845 139H920L956 178H1122" stroke="url(#accent)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g fill="#0e2637" stroke="#72ded7" stroke-width="3">
+    <circle cx="804" cy="92" r="8"/><circle cx="934" cy="68" r="8"/>
+    <circle cx="1067" cy="111" r="8"/><circle cx="1123" cy="222" r="8"/>
+    <circle cx="1003" cy="261" r="8"/><circle cx="858" cy="226" r="8"/>
+  </g>
+  <g fill="#9bece3">
+    <circle cx="747" cy="177" r="5"/><circle cx="956" cy="178" r="5"/><circle cx="1122" cy="178" r="5"/>
+  </g>
+  <text x="61" y="301" font-family="Segoe UI, Arial, sans-serif" font-size="13" letter-spacing="2" fill="#8ba8b5">WORKFLOWS  /  APPLICATIONS  /  DATA</text>
+</svg>
