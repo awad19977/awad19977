@@ -96,16 +96,19 @@ The projects below are separate apps and systems. Professional and in-progress w
 
 </details>
 
-### 🛠️ Tools I work with
+### 🧰 Tech stack
 
-**Core applications**<br/>
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+**Web and APIs**<br/>
+![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Hono](https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white)
+
+**Desktop and enterprise**<br/>
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![WPF](https://img.shields.io/badge/WPF-40566F?style=flat-square) ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
 
 **Data and reporting**<br/>
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Crystal Reports](https://img.shields.io/badge/Crystal_Reports-40566F?style=flat-square) ![DICOM](https://img.shields.io/badge/DICOM-1B7688?style=flat-square)
 
 **Mobile and interfaces**<br/>
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=111111) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=111111) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Riverpod](https://img.shields.io/badge/Riverpod-02569B?style=flat-square)
 
 **Integration and delivery**<br/>
 ![HL7/ASTM](https://img.shields.io/badge/HL7%20%2F%20ASTM-1B7688?style=flat-square) ![DICOMweb](https://img.shields.io/badge/DICOMweb-1B7688?style=flat-square) ![MCP](https://img.shields.io/badge/MCP-40566F?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
@@ -115,6 +118,26 @@ The projects below are separate apps and systems. Professional and in-progress w
 - **Healthcare interoperability:** DICOM imaging, lab analyzer messaging, and TCP/IP device connections.
 - **Operational reliability:** offline mobile queues, Windows print services and label printing, and Arabic/English patient and queue experiences.
 - **End-to-end delivery:** tracing screens through APIs and databases, automated checks, CI workflows, npm packages, and MCP tools.
+
+### 📈 GitHub activity
+
+<div align="center">
+  <a href="https://github.com/awad19977?tab=repositories"><img height="165" src="https://github-stats-extended.vercel.app/api?username=awad19977&amp;show_icons=true&amp;hide=stars,contribs&amp;hide_rank=true&amp;include_all_commits=true&amp;hide_border=true&amp;bg_color=0B1627&amp;title_color=57DED2&amp;text_color=C8DBE5&amp;icon_color=8BBDFF" alt="Awad's public GitHub commits, pull requests, and issues" /></a>
+  <a href="https://github.com/awad19977?tab=repositories"><img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=awad19977&amp;layout=compact&amp;hide_border=true&amp;bg_color=0B1627&amp;title_color=57DED2&amp;text_color=C8DBE5" alt="Languages in Awad's public GitHub repositories" /></a>
+</div>
+
+<p align="center"><sub>These automated cards count public repository activity. The professional systems above include private work.</sub><br/><a href="https://github.com/awad19977">Explore my full GitHub contribution graph ↗</a></p>
+
+### 🏆 GitHub achievements
+
+<table>
+  <tr>
+    <td align="center" width="25%"><a href="https://github.com/awad19977?achievement=pair-extraordinaire&amp;tab=achievements"><strong>🤝 Pair Extraordinaire</strong></a><br/><sub>Collaborative pull requests</sub></td>
+    <td align="center" width="25%"><a href="https://github.com/awad19977?achievement=pull-shark&amp;tab=achievements"><strong>🦈 Pull Shark ×2</strong></a><br/><sub>Merged pull requests</sub></td>
+    <td align="center" width="25%"><a href="https://github.com/awad19977?achievement=quickdraw&amp;tab=achievements"><strong>⚡ Quickdraw</strong></a><br/><sub>Fast issue response</sub></td>
+    <td align="center" width="25%"><a href="https://github.com/awad19977?achievement=yolo&amp;tab=achievements"><strong>🚀 YOLO</strong></a><br/><sub>Direct pull request merge</sub></td>
+  </tr>
+</table>
 
 ### 📍 The path so far
 
