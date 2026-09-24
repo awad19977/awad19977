@@ -2,12 +2,19 @@
   <title id="title">Awad Emad monogram</title>
   <desc id="desc">AE initials inside an abstract teal and blue circuit emblem</desc>
   <defs>
+    <style>
+      .mark-enter { transform-origin: 80px 80px; animation: mark-enter 650ms cubic-bezier(0.23, 1, 0.32, 1) both; }
+      @keyframes mark-enter { from { opacity: .35; transform: scale(.9); } to { opacity: 1; transform: scale(1); } }
+      @media (prefers-reduced-motion: reduce) { .mark-enter { animation-duration: 160ms; } }
+    </style>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1627"/><stop offset="1" stop-color="#1c4051"/></linearGradient>
     <linearGradient id="ring" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#57ded2"/><stop offset="1" stop-color="#8bbdff"/></linearGradient>
   </defs>
+  <g class="mark-enter">
   <circle cx="80" cy="80" r="77" fill="url(#bg)" stroke="url(#ring)" stroke-width="3"/>
   <circle cx="80" cy="80" r="62" fill="none" stroke="#74aeb7" stroke-opacity=".25"/>
   <path d="M22 86h18m80-12h18M53 27v16m54 74v17" stroke="url(#ring)" stroke-width="3" stroke-linecap="round"/>
   <circle cx="22" cy="86" r="4" fill="#57ded2"/><circle cx="138" cy="74" r="4" fill="#8bbdff"/>
   <text x="80" y="96" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="51" font-weight="750" letter-spacing="-5" fill="#f7fbff">AE</text>
+  </g>
 </svg>
