@@ -1,69 +1,126 @@
 <div align="center">
-  <img src="./assets/awad-hero.svg" width="100%" alt="Awad Emad — full-stack developer connecting healthcare workflows, operations, and useful data" />
-
-  <p><strong>Full-stack developer · Healthcare systems · Operational software</strong></p>
-
+  <img src="./assets/awad-hero.svg" width="100%" alt="Awad Emad — building dependable software for care and operations" />
+  <br/><br/>
+  <img src="./assets/awad-mark.svg" width="108" height="108" alt="AE monogram" />
+  <h1>Hi, I'm Awad Emad 👋</h1>
+  <p><strong>Full-stack developer turning complex healthcare workflows into software people can trust.</strong></p>
+  <p>Hospital systems · Product web and mobile · Data and reporting</p>
   <p>
-    <a href="https://www.linkedin.com/in/awad-emad-81089118b/">LinkedIn</a>
-    &nbsp;·&nbsp;
-    <a href="https://github.com/awad19977/Report-Intelligence-Platform">Open-source work</a>
-    &nbsp;·&nbsp;
-    <a href="https://github.com/awad19977?tab=repositories">Repositories</a>
+    <a href="https://www.linkedin.com/in/awad-emad-81089118b/"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+    <a href="https://github.com/awad19977?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Public_work-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Explore public repositories" /></a>
   </p>
 </div>
 
 ---
 
-### Hello, I'm Awad
+### 👋 A little about me
 
-I develop software that helps teams deliver care and run the work around it. At **Aliaa Specialist Hospital**, I have worked on hospital information and management systems since 2017, connecting clinical workflows with scheduling, billing, reporting, and day-to-day operations. My work spans established C#/.NET and SQL Server applications, modern web and mobile interfaces, and the integrations between them.
+I have built and supported software at **Aliaa Specialist Hospital since 2017**, working across clinical, administrative, and operational workflows. My work connects established **C#/.NET and SQL Server** systems with modern **React, TypeScript, and mobile** experiences.
 
-I like getting close to the real workflow: understanding what staff need, tracing how information moves, and making the finished system dependable in daily use.
+> I care about the moment software meets real work: a patient booking, a lab result, a medication sale, or a report someone uses to make a decision.
 
-### Healthcare and patient care
+```text
+My approach: understand the workflow → trace the data → build the right tool → support it in daily use
+```
 
-| Project | Features and contribution |
+### ⚡ What I build
+
+<table>
+  <tr>
+    <td width="50%" valign="top"><h3>🏥 Hospital platforms</h3>Patient journeys, clinical work, billing, insurance, ERP, and integrations across departments.<br/><br/><sub>C# · .NET · SQL Server · React</sub></td>
+    <td width="50%" valign="top"><h3>📱 Connected experiences</h3>Patient portals, mobile apps, and clinician tools that carry the same workflow across devices.<br/><br/><sub>TypeScript · React Router · Expo · Flutter</sub></td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top"><h3>🧪 Diagnostics and data</h3>Laboratory results, medical imaging, reporting, and tools that make complex information usable.<br/><br/><sub>WPF · DICOMweb · Crystal Reports · MCP</sub></td>
+    <td width="50%" valign="top"><h3>⚙️ Operations software</h3>Pharmacy, production, attendance, point of sale, and team coordination systems.<br/><br/><sub>Blazor · Hono · PostgreSQL · React Native</sub></td>
+  </tr>
+</table>
+
+### 🚀 Selected projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏥 Hospital Information System + ERP</h3>
+      Multi-branch platform spanning registration, appointments, clinical encounters, diagnostics, pharmacy, billing and insurance, inventory, finance, and HR.<br/><br/>
+      <sub>React Router · Hono · SQL Server</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💊 Pharmacy Management System</h3>
+      Web and mobile tools for point of sale, stock and barcode handling, suppliers, reporting, and financial views.<br/><br/>
+      <sub>React Router · Hono · Expo · PostgreSQL</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔬 LIS Desktop App</h3>
+      Laboratory workflows for patients, test orders, results, verification, reports, and analyzer connectivity.<br/><br/>
+      <sub>.NET 8 · WPF · SQL Server · HL7/ASTM</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 <a href="https://github.com/awad19977/Report-Intelligence-Platform">Report Intelligence Platform ↗</a></h3>
+      Open-source CLI and MCP tools that inspect Crystal Reports: structure, data sources, SQL commands, parameters, formulas, and subreports.<br/><br/>
+      <sub>TypeScript · Node.js · public repository</sub>
+    </td>
+  </tr>
+</table>
+
+### 🧭 More of my work
+
+The projects below are separate apps and systems. Professional and in-progress work is described at the feature level; source links appear only where a repository is public.
+
+<details open>
+<summary><strong>Healthcare and patient care · 5 projects</strong></summary>
+
+| Project | What it helps people do |
 | :--- | :--- |
-| **Hospital Information System + ERP** | Multi-branch web platform covering registration, appointments, clinical encounters, diagnostics, pharmacy, billing and insurance, inventory, finance, and HR. <br/><sub>React Router · Hono · SQL Server</sub> |
-| **Patient portal** | Doctor and service discovery, account registration, appointment booking and management, results, and bills. <br/><sub>React Router · SQL Server</sub> |
-| **Patient mobile app** | Appointments, results, medications and reminders, bills, live queue information, consent, family access, and Arabic/English screens. <br/><sub>Expo · React Native</sub> |
-| **Patient app backend** | Separate account and session service that connects the mobile experience to hospital workflows for bookings, results, bills, consent, and family links. <br/><sub>Node.js · SQL Server</sub> |
-| **Clinician and manager tablet** | Tablet workflows for rounds, patient charts, notes, quick orders, queues, dashboards, and approvals, with an offline write queue. <br/><sub>Expo · React Native</sub> |
-| **Pharmacy Management System** | Web and mobile pharmacy tools for point of sale, stock and barcode handling, suppliers, reporting, and financial views. <br/><sub>React Router · Hono · Expo · PostgreSQL</sub> |
-| **PACS_Sys** | DICOM imaging prototype with a viewer, study search, clinical worklists and reports, plus administration and audit surfaces. Field pilot work remains planned. <br/><sub>React · TypeScript · DICOMweb</sub> |
-| **LIS Desktop App** | Laboratory desktop workflows for patients, test orders and results, result verification, reports, and analyzer connectivity. <br/><sub>.NET 8 · WPF · SQL Server · HL7/ASTM</sub> |
+| **Patient portal** | Find doctors and services, create an account, book and manage appointments, and view results and bills. <br/><sub>React Router · SQL Server</sub> |
+| **Patient mobile app** | Manage appointments, results, medication reminders, bills, queue information, consent, and family access in Arabic or English. <br/><sub>Expo · React Native</sub> |
+| **Patient app backend** | Connect mobile accounts and sessions to hospital bookings, results, bills, consent, and family links. <br/><sub>Node.js · SQL Server</sub> |
+| **Clinician and manager tablet** | Support rounds, patient charts, notes, quick orders, queues, dashboards, and approvals, including an offline write queue. <br/><sub>Expo · React Native</sub> |
+| **PACS_Sys** | DICOM imaging prototype with a viewer, study search, clinical worklists and reports, administration, and audit surfaces. A field pilot remains planned. <br/><sub>React · TypeScript · DICOMweb</sub> |
 
-### Operations and team software
+</details>
 
-| Project | Features and contribution |
+<details open>
+<summary><strong>Operations and teams · 6 projects</strong></summary>
+
+| Project | What it helps people do |
 | :--- | :--- |
-| **EMPZKteco** | Employee attendance platform with ZKTeco device integration, punch collection, enrollment, live monitoring, and attendance reports. <br/><sub>.NET 8 · Blazor · SQL Server</sub> |
-| **Production Manager** | Production orders and recipes, stock purchasing and unit conversion, sales, expenses, reports, and role-based access. <br/><sub>React Router · Hono · PostgreSQL</sub> |
-| **Activation Issuer Mobile** | Mobile workflow for importing an issuer key, generating signed licenses, reviewing local history, and exporting encrypted backups. <br/><sub>Expo · React Native</sub> |
-| **TeamSync Web** | Team operations app for contacts, departments, tickets and tasks, recurring routines, timetables, approvals, reports, and notifications. <br/><sub>React Router · Hono · PostgreSQL</sub> |
-| **TeamSync Mobile** | Flutter companion for contacts, tasks, tickets, routines, timetables, approvals, notifications, and offline sync. <br/><sub>Flutter · Riverpod</sub> |
-| **[Cafeteria POS](https://github.com/awad19977/Cafeteria-POS)** | Point-of-sale web app supporting cashier, inventory, and kitchen workflows. <br/><sub>React Router · Hono · PostgreSQL · public repository</sub> |
+| **EMPZKteco** | Manage employee attendance, ZKTeco devices, punch collection, enrollment, monitoring, and reports. <br/><sub>.NET 8 · Blazor · SQL Server</sub> |
+| **Production Manager** | Track production orders and recipes, stock purchasing and unit conversion, sales, expenses, and reports. <br/><sub>React Router · Hono · PostgreSQL</sub> |
+| **Activation Issuer Mobile** | Import an issuer key, generate signed licenses, review local history, and export encrypted backups. <br/><sub>Expo · React Native</sub> |
+| **TeamSync Web** | Coordinate contacts, departments, tickets, tasks, routines, timetables, approvals, reports, and notifications. <br/><sub>React Router · Hono · PostgreSQL</sub> |
+| **TeamSync Mobile** | Bring contacts, tasks, tickets, routines, timetables, approvals, notifications, and offline sync to mobile. <br/><sub>Flutter · Riverpod</sub> |
+| **[Cafeteria POS ↗](https://github.com/awad19977/Cafeteria-POS)** | Support cashier, inventory, and kitchen workflows in one point-of-sale web app. <br/><sub>React Router · Hono · PostgreSQL · public repository</sub> |
 
-### Developer tooling
+</details>
 
-| Project | Features and contribution |
-| :--- | :--- |
-| **[Report Intelligence Platform](https://github.com/awad19977/Report-Intelligence-Platform)** | Open-source CLI and MCP tools for inspecting Crystal Reports, including report structure, data sources, SQL commands, parameters, formulas, and subreports. <br/><sub>TypeScript · Node.js · public repository</sub> |
+### 🛠️ Tools I work with
 
-Most professional and in-progress systems above live in private workspaces. The descriptions cover product features; source links are provided only for public repositories.
+**Core applications**<br/>
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-### Experience and toolkit
+**Data and reporting**<br/>
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Crystal Reports](https://img.shields.io/badge/Crystal_Reports-40566F?style=flat-square) ![DICOM](https://img.shields.io/badge/DICOM-1B7688?style=flat-square)
 
-**Software Developer · Aliaa Specialist Hospital · 2017–present**  
+**Mobile and interfaces**<br/>
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=111111) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
+
+### 📍 The path so far
+
+**2017–present · Software Developer, Aliaa Specialist Hospital**  
 Hospital information systems, ERP workflows, SQL Server development, integrations, deployment support, and collaboration with clinical and administrative staff.
 
-**Software Developer · SCABS Engineering · 2014–2016**  
+**2014–2016 · Software Developer, SCABS Engineering**  
 Earlier software development experience.
 
 **BSc Computer Science · Omdurman Islamic University**
 
-`C#` · `.NET` · `SQL Server / T-SQL` · `React` · `TypeScript` · `Node.js` · `PostgreSQL` · `React Native` · `Flutter` · `Crystal Reports`
+---
 
-### Let's connect
-
-I'm interested in full-stack and healthcare technology roles where I can modernize important systems and ship software people rely on. [Connect on LinkedIn](https://www.linkedin.com/in/awad-emad-81089118b/) or explore my [public repositories](https://github.com/awad19977?tab=repositories).
+<div align="center">
+  <h3>Let's build software that helps people do important work.</h3>
+  <p>I'm interested in full-stack and healthcare technology roles.</p>
+  <a href="https://www.linkedin.com/in/awad-emad-81089118b/"><img src="https://img.shields.io/badge/Start_a_conversation-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Start a conversation on LinkedIn" /></a>
+</div>
