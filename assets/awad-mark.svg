@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Awad Emad monogram</title>
+  <desc id="desc">AE initials inside an abstract teal and blue circuit emblem</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1627"/><stop offset="1" stop-color="#1c4051"/></linearGradient>
+    <linearGradient id="ring" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#57ded2"/><stop offset="1" stop-color="#8bbdff"/></linearGradient>
+  </defs>
+  <circle cx="80" cy="80" r="77" fill="url(#bg)" stroke="url(#ring)" stroke-width="3"/>
+  <circle cx="80" cy="80" r="62" fill="none" stroke="#74aeb7" stroke-opacity=".25"/>
+  <path d="M22 86h18m80-12h18M53 27v16m54 74v17" stroke="url(#ring)" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="22" cy="86" r="4" fill="#57ded2"/><circle cx="138" cy="74" r="4" fill="#8bbdff"/>
+  <text x="80" y="96" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="51" font-weight="750" letter-spacing="-5" fill="#f7fbff">AE</text>
+</svg>
